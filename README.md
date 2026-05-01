@@ -7,9 +7,9 @@ A polished static landing page for the 99X AI Hub. This repository contains a si
 
 ## Screenshot
 
-Add a screenshot image named `screenshot.png` to the repository root (or adjust the path below). Once the image is added, GitHub will render it here.
+The screenshot below shows the current landing page (file already in the repo):
 
-![Landing Page Screenshot](./screenshot.png)
+![Landing Page Screenshot](./Screenshot%202026-05-01%20at%2019.33.14.png)
 
 
 ## Features
